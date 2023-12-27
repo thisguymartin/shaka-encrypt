@@ -13,7 +13,7 @@ streaming_mode = 'DASH'
 xml = "text/xml"
 headers = {
     'Content-Type': 'text/xml',
-    'nv-authorizations': "eyJraWQiOiI1MjY3ODEiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2ZXIiOiIxLjAiLCJ0eXAiOiJBdXRoTiJ9.ZTjZJ_D120MSz0vokt_crmfmxNVcgKufwyTTZFZMhT4"
+    'nv-authorizations': ""
 }
 
 def frame_xml(contentID):
